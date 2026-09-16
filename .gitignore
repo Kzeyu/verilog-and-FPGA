@@ -1,0 +1,91 @@
+# ===== Verilog/HDL 通用 =====
+*.vcd
+*.vpd
+*.fsdb
+*.shm
+*.wlf
+*.wcfg
+*.vstf
+*.ucdb
+*.cov
+*.log
+transcript
+vsim.wlf
+
+# ===== ModelSim / Questa =====
+work/
+work.*/
+modelsim.ini
+wlf*
+DVEfiles/
+
+# ===== Icarus Verilog =====
+*.vvp
+*.vpi
+a.out
+
+# ===== VCS =====
+simv
+simv.daidir/
+csrc/
+ucli.key
+vc_hdrs.h
+
+# ===== Verdi / Novas =====
+verdiLog/
+novas.*
+*.rc
+
+# ===== Vivado =====
+.Xil/
+*.jou
+*.str
+*.bit
+*.bin
+*.ltx
+*.dcp
+*.hdf
+*.xsa
+*.mcs
+*.prm
+*.rbt
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+
+# ===== Quartus =====
+db/
+incremental_db/
+greybox_tmp/
+output_files/
+qdb/
+*.qws
+*.sof
+*.pof
+*.rbf
+*.sopcinfo
+*.jdi
+
+# ===== 编译/构建输出 =====
+build/
+out/
+dist/
+*.o
+*.obj
+
+# ===== 编辑器 / IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# ===== 操作系统 =====
+.DS_Store
+Thumbs.db
+desktop.ini
