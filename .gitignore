@@ -18,6 +18,11 @@ work.*/
 modelsim.ini
 wlf*
 DVEfiles/
+*.mpf
+*.mti
+*.cr.mti
+*.qpg
+*.qtl
 
 # ===== Icarus Verilog =====
 *.vvp
