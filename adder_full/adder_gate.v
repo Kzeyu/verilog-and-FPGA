@@ -10,5 +10,4 @@ and u3(w2,a,b);//a&b
 and u4(w3,ci,w1);//ci&(a^b)
 or u5(co,w2,w3);//co=a&b+ci&(a^b)
 
-
 endmodule
