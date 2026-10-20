@@ -23,6 +23,7 @@ DVEfiles/
 *.cr.mti
 *.qpg
 *.qtl
+tcl_stacktrace.txt
 
 # ===== Icarus Verilog =====
 *.vvp
